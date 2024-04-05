@@ -2,12 +2,12 @@
 
 ## Layout
 
-The designs were created to the following widths:
+Os designs foram criados com as seguintes larguras:
 
-- Mobile: 375px
+- Celular: 375px
 - Desktop: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+💡 Estes são apenas os tamanhos de design. Certifique-se de que o conteúdo seja responsivo e atenda aos requisitos da WCAG testando a gama completa de tamanhos de tela, de 320px a telas grandes.
 
 ## Colors
 
